@@ -52,8 +52,8 @@ The timing waveform validates correct functionality under dynamic adjustments:
 ---
 
 ## Technical Implementation Details
-* **Hardware Description Language**: Verilog (IEEE 1364-2005)
-* **Simulation/Synthesis Tools**: Xilinx Vivado Design Suite / ModelSim Simulator
+* **Hardware Description Language**: Verilog 
+* **Simulation/Synthesis Tools**: Xilinx Vivado Design Suite
 * **Time Scale Resolution**: 1ns / 1ps
 * **Target Master Frequency**: 100 MHz (sys_clk)
 
