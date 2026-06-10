@@ -42,7 +42,7 @@ Verification is performed via an intensive, nested parametric test sequence in T
 ### Simulation Waveform Analysis
 The timing waveform validates correct functionality under dynamic adjustments:
 
-![TRNG Simulation Waveform](waveforms/simulation_wave.png)
+![TRNG Simulation Waveform](Waveforms/Image 1.png)
 
 ### Key Observations from Waveform:
 * **sys_clk & sample_clk**: Demonstrates reliable operation of the clock division block during frequency scaling transitions.
