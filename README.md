@@ -64,6 +64,6 @@ The timing waveform validates correct functionality under dynamic adjustments:
 4. Run the behavioral simulation to view console logs tracking $display statements showing FreqSel, stage indices, and the corresponding output random integer values.
 
 ## Contributors
-* [Shashikant](https://github.com/Shashi-kalal)
+* [Shashikant Kalal](https://github.com/Shashi-kalal)
 * [Tejaswini K N](https://github.com/tejaswini1009)
 
