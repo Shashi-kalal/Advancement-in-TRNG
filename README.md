@@ -42,7 +42,7 @@ Verification is performed via an intensive, nested parametric test sequence in T
 ### Simulation Waveform Analysis
 The timing waveform validates correct functionality under dynamic adjustments:
 
-![TRNG Simulation Waveform](Waveforms/Image 1.png)
+![TRNG Simulation Waveform](Waveforms/Image%201.png)
 
 ### Key Observations from Waveform:
 * **sys_clk & sample_clk**: Demonstrates reliable operation of the clock division block during frequency scaling transitions.
@@ -62,3 +62,8 @@ The timing waveform validates correct functionality under dynamic adjustments:
 2. Load the source files from the rtl/ directory into your EDA workspace (e.g., Vivado or ModelSim).
 3. Associate tb/Testbench_final.v as your top-level simulation file.
 4. Run the behavioral simulation to view console logs tracking $display statements showing FreqSel, stage indices, and the corresponding output random integer values.
+
+## Contributors
+* [Shashikant](https://github.com/Shashi-kalal)
+* [Tejaswini K N](https://github.com/tejaswini1009)
+
